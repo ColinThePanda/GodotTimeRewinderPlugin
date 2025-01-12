@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://d1fq40tea46xl"]
+
+[ext_resource type="Script" path="res://addons/Time Rewinder/rewinder.gd" id="1_es1jh"]
+
+[node name="Rewinder" type="Node"]
+script = ExtResource("1_es1jh")
